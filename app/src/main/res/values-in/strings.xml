@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reza Tugas 4 PAB</string>
+    <string name="hello_blank_fragment">Helo fragment kosong</string>
+    <string name="fkom">Selamat Datang di FKOM Mobile App</string>
+    <string name="or_sign_in">Atau masuk dengan</string>
+    <string name="or_sign_up">Atau masuk dengan</string>
+    <string name="login_success">Login Sukses</string>
+    <string name="register_success">Register Sukses</string>
+</resources>
